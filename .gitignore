@@ -5,3 +5,7 @@ hubconfcustom.py
 venv/
 templates/
 best.pt
+people_count/
+*.jpg
+static/violations/violation_ABESIT_19:49:37_22-02-2023.jpg
+static/violations/violation_ABESIT_19:49:37_22-02-2023.jpg
