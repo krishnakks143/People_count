@@ -190,7 +190,7 @@ if __name__ == '__main__':
     # Uncomment the following lines to run the code locally
     # set sender and recipient accordingly
     # sender must be a gmail account using which you have enabled the gmail API
-    '''prepare_and_send_email(sender='sugandh.gupta@giindia.com', 
+    '''prepare_and_send_email(sender='singhkrishnakks.66@gmail.com', 
                            recipient='sugandhaquarius@gmail.com',
                            subject= 'Greeting from Global Infoventures', 
                            message_text= 'Hello, this is a test email from Global Infoventures',
